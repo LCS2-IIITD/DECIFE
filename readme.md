@@ -1,6 +1,18 @@
 # DECIFE: Detecting Collusive Users Involved in Blackmarket Following Services on Twitter
 
-This is the pytorch implementation of DECIFE
+This is the pytorch implementation of DECIFE (In Proceedings of the 32nd ACM Conference on Hypertext and Social Media)
+
+Please use the following citation is you use the work.
+
+```
+@inproceedings{dutta2021decife,
+  title={DECIFE: Detecting collusive users involved in blackmarket following services on Twitter},
+  author={Dutta, Hridoy Sankar and Aggarwal, Kartik and Chakraborty, Tanmoy},
+  booktitle={Proceedings of the 32nd ACM Conference on Hypertext and Social Media},
+  pages={91--100},
+  year={2021}
+}
+```
 
 ### Installation:
 
